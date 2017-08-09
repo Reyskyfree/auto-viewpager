@@ -1,6 +1,6 @@
 # AutoViewPager
 
-[![](https://jitpack.io/v/santalu/auto-viewpager.svg)](https://jitpack.io/#santalu/auto-viewpager)
+[![](https://jitpack.io/v/santalu/auto-viewpager.svg)](https://jitpack.io/#santalu/auto-viewpager) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AutoViewPager-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6038)
 
 ## Sample
 
