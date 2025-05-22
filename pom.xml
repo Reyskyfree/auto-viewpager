@@ -60,9 +60,9 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>com.android.tools.build</groupId>
+                <groupId>com.github.dcendents</groupId>
                 <artifactId>android-maven-plugin</artifactId>
-                <version>1.2</version>
+                <version>2.1</version>
                 <configuration>
                     <sdk>
                         <platform>${android.version}</platform>
